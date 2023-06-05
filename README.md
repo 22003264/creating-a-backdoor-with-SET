@@ -24,7 +24,7 @@ Social Engineering attacks are the various cons used by the hackers to trick peo
 The command sudo setoolkit in the prompt gives menu with set prompt:
 
 
-![img1]/(home/scoft/Pictures/Screenshots/7.1.png)
+![img1](home/scoft/Pictures/Screenshots/7.1.png)
 
 ![img2]/(home/scoft/Pictures/Screenshots/7.2.png)
 
