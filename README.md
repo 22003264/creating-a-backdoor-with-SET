@@ -24,7 +24,7 @@ Social Engineering attacks are the various cons used by the hackers to trick peo
 The command sudo setoolkit in the prompt gives menu with set prompt:
 
 
-![l](https://github.com/praveenst13/creating-a-backdoor-with-SET/assets/118787793/569bac5b-8b6b-4f99-b679-bdf6e3878475)
+
 
 
 
